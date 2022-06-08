@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test_task_amoCRM/static/css/main.a45c1a81.css",
+    "main.js": "/test_task_amoCRM/static/js/main.a12c2ece.js",
+    "index.html": "/test_task_amoCRM/index.html",
+    "main.a45c1a81.css.map": "/test_task_amoCRM/static/css/main.a45c1a81.css.map",
+    "main.a12c2ece.js.map": "/test_task_amoCRM/static/js/main.a12c2ece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45c1a81.css",
+    "static/js/main.a12c2ece.js"
+  ]
+}
